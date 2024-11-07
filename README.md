@@ -1,3 +1,7 @@
+Matthew Says
+- you should add skins to your characters
+- you should also add backrounds
+
 # Game Technical Specifications
 
 ## Overview
